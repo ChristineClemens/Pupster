@@ -1,6 +1,8 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import Navigation from "./components/Navigation";
+import About from "./components/pages/About";
+import Discover from "./components/pages/Discover";
+import Search from "./components/pages/Search";
 
 function App() {
   return (
